@@ -1,0 +1,5 @@
+API_TOKEN = '1375010541:AAGEooF15KQjV_N-oRVj10RDq-IDwzi9Eo8'
+# MYSQL_HOST = 'db'
+# MYSQL_USER = 'root'
+# MYSQL_PASSWORD = 'root'
+# MYSQL_DB = 'blue-chips'
